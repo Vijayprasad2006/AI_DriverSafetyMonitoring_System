@@ -1,0 +1,13 @@
+{
+  "dataset_name": "Simuletic_DMS_Dataset (Real Driver Monitoring)",
+  "total_extracted_patches": 241,
+  "train_samples": 192,
+  "val_samples": 49,
+  "best_val_accuracy": 0.9184,
+  "classes": [
+    "Closed/Drowsy",
+    "Open"
+  ],
+  "checkpoint": "C:\\Users\\Vijay\\Downloads\\AI_Driver_Safety_Monitoring\\models\\weights\\eye_model.pth",
+  "trained_timestamp": "2026-09-20 22:20:26"
+}

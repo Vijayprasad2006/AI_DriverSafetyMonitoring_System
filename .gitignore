@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Database & Logs
+database/*.db
+*.log
+
+# Models & Checkpoints (Allowed since weights are < 5MB)
+# models/weights/*.pth
+# models/weights/*.pt
+# models/weights/*.onnx
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+*.swp
